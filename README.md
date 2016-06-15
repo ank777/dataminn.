@@ -11,7 +11,7 @@ which results in hinders when using the fuzzy c-means.
 Improved method helps us to find the optimal value.
 
 
-K-means algorithms.[1]
+K-means algorithms(standard)
 
 1.Choose k cluster center initially.
 
